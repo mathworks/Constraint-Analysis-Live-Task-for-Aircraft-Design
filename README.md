@@ -24,8 +24,8 @@ This live task offers the following constraints:
 
 </tr>
 
-## How to use it?
-For detailed information on various inputs-outputs, and how to use the Constraint Analysis Live Task, please refer [Live Task Documentation](Live_Task_Documentation.md).  
+<!-- ## How to use it?
+For detailed information on various inputs-outputs, and how to use the Constraint Analysis Live Task, please refer [Live Task Documentation](Live_Task_Documentation.md).  -->
 
 
 ## Setup
