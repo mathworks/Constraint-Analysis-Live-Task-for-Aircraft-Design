@@ -32,8 +32,8 @@ For detailed information on various inputs-outputs, and how to use the Constrain
 To run: 
 1.	Download the repository and open it in the MATLAB environment.
 2.	Install 'Constraint Analysis V_0.51.mltbx' by double-clicking on it.
-3.	Open a new live script and start typing 'Constraint'. Select "Constraint Analysis" from the suggestions.
-<td> <img src="Images/CASearch.png" alt="CA Search" width="800px""/> </td>
+3.	Open a new live script and add Constraint Analysis Live Task from Task submenu in Insert tab.
+ <td> <img src="Images/CASearch.png" alt="CA Search" width="800px""/> </td>
 
 
 ## MathWorks Products (https://www.mathworks.com)
