@@ -31,8 +31,8 @@ For detailed information on various inputs-outputs, and how to use the Constrain
 ## Setup
 To run: 
 1.	Download the repository and open it in the MATLAB environment.
-2.	Install 'Constraint Analysis V_0.51.mltbx' by double-clicking on it.
-3.	Open a new live script and add Constraint Analysis Live Task from Task submenu in Insert tab.
+2.	Install 'Constraint Analysis Live Task for Aircraft Design V2.0' by double-clicking on it.
+3.	Open a new live script and add Constraint Analysis Live Task from Task submenu in the Insert tab.
  <td> <img src="Images/CASearch.png" alt="CA Search" width="800px""/> </td>
 
 
