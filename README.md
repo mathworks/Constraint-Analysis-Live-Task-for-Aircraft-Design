@@ -9,6 +9,8 @@
 
 ## Introduction
 
+
+
 The Constraint Analysis Live Task helps aircraft/UAV designers, in the conceptual design phase, to determine the appropriate design space to meet specified performance requirements. 
 
 From constraint analysis plots, designer can find appropriate ranges of wing loading (W/S), power-to-weight ratio (P/W), and thrust-to-weight ratio (T/W). These values can be used further to calculate the required wing planform area (S) and select the required propulsion system based on power (P) or Thrust (T).
@@ -18,6 +20,12 @@ This live task offers the following constraints:
 2.	Take-off constraint: Based on the total available take-off distance.
 3.	Cruise velocity constraint: Based on the required maximum velocity at cruise altitude.
 4.	Climb rate constraint: Based on the required climb rate at a specified altitude.
+
+<tr>
+<td> <[![Constraint Analysis for Aircraft Design](https://img.youtube.com/vi/m4_I4ENg_cc/0.jpg)](https://www.youtube.com/watch?v=m4_I4ENg_cc)> </td> 
+
+</tr>
+
 
 <tr>
 <td> <img src="Images/LiveTask.png" alt="Constraint Analysis Live Task Example" width="800px"/> </td> 
