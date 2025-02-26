@@ -20,7 +20,6 @@ This live task offers the following constraints:
 2.	Take-off constraint: Based on the total available take-off distance.
 3.	Cruise velocity constraint: Based on the required maximum velocity at cruise altitude.
 4.	Climb rate constraint: Based on the required climb rate at a specified altitude.
-5.	
 
 <tr>
 <td> <img src="Images/LiveTask.png" alt="Constraint Analysis Live Task Example" width="800px"/> </td> 
