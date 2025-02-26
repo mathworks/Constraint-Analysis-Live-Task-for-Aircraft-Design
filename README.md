@@ -21,10 +21,7 @@ This live task offers the following constraints:
 3.	Cruise velocity constraint: Based on the required maximum velocity at cruise altitude.
 4.	Climb rate constraint: Based on the required climb rate at a specified altitude.
 
-<tr>
-<td> <[![Constraint Analysis for Aircraft Design](https://img.youtube.com/vi/m4_I4ENg_cc/0.jpg)](https://www.youtube.com/watch?v=m4_I4ENg_cc)> </td> 
-
-</tr>
+[![Watch the video](https://img.youtube.com/vi/m4_I4ENg_cc/maxresdefault.jpg)](https://www.youtube.com/watch?v=m4_I4ENg_cc)
 
 
 <tr>
